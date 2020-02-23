@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    background-color: gold;
+    background-color: #fff9f9;
     padding: 0;
 }
 
@@ -21,26 +21,25 @@ body {
     margin-top: 0px;
     margin: 5%;
     padding: 3%;
-    background-color: darkgoldenrod;
+    background-color: #d01200;
     color: white;
 }
 
 .card {
-    background-color: darkorange;
+    background-color: #93857d;
 }
 
 .card button {
     color: white;
 }
 
-.card-body {
-    margin: 2% !important;
-    background-color: darkorchid;
+.nav {
+    background-color: #524f52;
+    margin:0px !important;
 }
 
-.nav {
-    background-color: blue;
-    margin:0px !important;
+.nav-link {
+    color: white !important;
 }
 
 .nav-general {
