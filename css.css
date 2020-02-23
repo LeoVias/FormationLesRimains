@@ -1,0 +1,52 @@
+
+.boutton {
+    background-color : #5c93a3 !important;
+}
+
+
+.boutton:hover {
+    background-color : pink !important;
+}
+
+body {
+    background-color: darkgray;
+}
+
+.container {
+    background-color: gold;
+    padding: 0;
+}
+
+.boite {
+    margin-top: 0px;
+    margin: 5%;
+    padding: 3%;
+    background-color: darkgoldenrod;
+    color: white;
+}
+
+.card {
+    background-color: darkorange;
+}
+
+.card button {
+    color: white;
+}
+
+.card-body {
+    margin: 2% !important;
+    background-color: darkorchid;
+}
+
+.nav {
+    background-color: blue;
+    margin:0px !important;
+}
+
+.nav-general {
+    background-color: grey;
+}
+
+.nav-hover:hover {
+    background-color: grey;
+}
