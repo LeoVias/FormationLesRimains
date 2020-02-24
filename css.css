@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: darkgray;
+    background-color: #272727;
 }
 
 .container {
@@ -55,11 +55,27 @@ body {
     margin-left: 1%;
     position: absolute;
     height: 100%;
-}
+}s
 
 .vl-right {
     border-right: 3px solid white;
     right:1%;
     position: absolute;
     height: 100%;
+}
+button:hover {
+    color: rgb(163, 163, 163) !important;
+    text-decoration: none !important;
+}
+button{
+    text-decoration: none !important;
+}
+.image1 {
+    width: 50%;
+    height: 50%;
+    float: right;
+    margin-top: 0cm;
+}
+p {
+    text-align: justify;
 }
