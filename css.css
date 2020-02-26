@@ -1,13 +1,3 @@
-
-.boutton {
-    background-color : #5c93a3 !important;
-}
-
-
-.boutton:hover {
-    background-color : pink !important;
-}
-
 body {
     background-color: #272727;
 }
@@ -36,6 +26,10 @@ body {
     background-color: #970d00;
 }
 
+.cardsti{
+    background-color: rgb(10, 97, 0) ;
+}
+
 .card button {
     color: white;
 }
@@ -62,7 +56,8 @@ body {
     border-left: 3px solid white;
     margin-left: 1%;
     position: absolute;
-    height: 200%;
+    height: 100%;
+    margin-bottom: 1%;
 }
 
 .vl-right {
@@ -70,10 +65,15 @@ body {
     border-left: 3px solid white;
     margin-left: 99%;
     position: absolute;
-    height: 200%;
+    height: 100%;
+    margin-bottom: 1%;
 }
-button:hover {
-    color: rgb(126, 0, 0) !important;
+.btncg:hover {
+    color: rgb(255, 38, 38) !important;
+    text-decoration: none !important;
+}
+.btncs:hover {
+    color: rgb(18, 179, 0) !important;
     text-decoration: none !important;
 }
 button{
@@ -86,12 +86,13 @@ button{
 }
 p {
     text-align: justify;
+    line-height: 180%;
 }
 .nav-hoverac:hover {
-    background-color:rgb(0, 125, 127);
+    background-color:#01758a;
 }
 .nav-ac {
-    background-color:rgb(0, 125, 127);  
+    background-color:#01758a;  
 }
 .nav-techno{
     background-color: rgb(12, 127, 0);
@@ -107,4 +108,42 @@ p {
 }
 .card5{
     margin-top: 2%;
+}
+.boite2{
+    margin-top: 0px;
+    margin: 5%;
+    padding: 3%;
+    background-color: #00b0cf;
+    color: white; 
+}
+.boite3{
+    margin-top: 2%;
+    padding: 3%;
+    background-color: #0092ac;
+    color: white;
+}
+.txtc{
+    margin-bottom: 2%;
+}
+.txtc2{
+    margin-top: 2%;
+}
+.boite4{
+    margin-top: 0px;
+    margin: 5%;
+    padding: 3%;
+    background-color: rgb(16, 165, 0);
+    color: white;   
+}
+.boite5{
+    margin-top: 4%;
+    padding: 3%;
+    background-color: rgb(13, 126, 0);
+    color: white;
+}
+.boiteoption{
+    padding-top: 2%;
+}
+.boiteop3 {
+    margin-bottom: 3%;
 }
