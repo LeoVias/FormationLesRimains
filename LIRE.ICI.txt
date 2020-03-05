@@ -1,1 +1,1 @@
-Extraire le fichier 7zip pour avoir que le css fonctionne
+Extraire le fichier 7zip sur le bureau pour que le css fonctionne
